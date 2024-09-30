@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel! 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samuel.github)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sbeuran.github)
 
 Welcome to my GitHub profile! I'm a CloudOps Engineer with a passion for cloud infrastructure, DevOps tools, and automation. Here you'll find my personal projects, contributions to open source, and experiments with cutting-edge technologies.
 
@@ -25,15 +25,15 @@ Welcome to my GitHub profile! I'm a CloudOps Engineer with a passion for cloud i
 
 ### 📊 GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel&show_icons=true&theme=radical)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbeuran&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeuran&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuel&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sbeuran&theme=radical)
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a CloudOps Engineer with a passion for cloud i
 
 ### 📫 How to reach me
 
-- [![LinkedIn Badge](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel)](https://www.linkedin.com/in/samuel-beuran)
+- [![LinkedIn Badge](https://img.shields.io/badge/-sbeuran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel)](https://www.linkedin.com/in/samuel-beuran)
 - [Email](mailto:samuel.beuran98@gmail.com)
 
 ---
